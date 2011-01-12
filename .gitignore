@@ -1,0 +1,6 @@
+.*
+*~
+*.sw[a-p]
+
+# KDE
+.directory
